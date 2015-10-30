@@ -1,0 +1,107 @@
+/*
+ * Author: mvdw
+ * Mail: <mvdw at airmail dot cc>
+ * Distributed under terms of the MIT license.
+ */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
+
+/* Apply some of the default styling and make the section visibility available
+ * to the hash.*/
+html, body {
+}
+
+html, body {
+    font-family: 'Open Sans', sans-serif;
+    vertical-align: baseline;
+    background: #FEFEFE;
+    line-height: 1;
+    color: #333;
+    padding: 0;
+    margin: 0;
+}
+
+*,
+*:before,
+*:after   {-webkit-box-sizing: border-box;
+              -moz-box-sizing: border-box;
+                   box-sizing: border-box;}
+main {
+    margin: 25px auto 0px auto;
+    max-width: 768px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: #DF253F;
+}
+
+section.visible, footer {
+    padding: 0px 20px;
+    display: block;
+}
+
+footer {
+    margin: 25px 0px;
+}
+
+section {
+    display: none
+}
+
+/* The core styling for default content. */
+h1, h2, h3, h4, h5, h6 {
+    color: #4B4B4B;
+}
+h1 {
+    font-size: 164%;
+}
+h2 {
+    font-size: 132%
+}
+h3 {
+    font-size: 100%;
+    color: #A9A9A9;
+    margin: 0;
+}
+p {
+    line-height: 1.65em;
+}
+
+/* Restyle the hr element. Relying on borders? What is this? 2011?! */
+hr {
+    background: #C9C9C9;
+    height: 2.5px;
+    width: 100%;
+    border:none;
+}
+
+/* Display the navigation. */
+nav {
+    line-height: 2.5em;
+    text-align: right;
+    width: 100%;
+}
+nav div {
+    display: inline-block;
+}
+nav div a {
+    text-decoration: none;
+    padding: 0px 10px;
+    font-size: 85%;
+    color: inherit;
+}
+nav div:last-child {
+    margin-right: 32px;
+}
+
+@media all and (max-width: 768px) {
+    main {
+        font-size: 125%;
+        width: 100%;
+    }
+}
