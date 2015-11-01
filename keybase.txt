@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/mvdw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://muse.github.io
+  * I am mvdw (https://keybase.io/mvdw) on keybase.
+  * I have a public key with fingerprint 682F 6F67 CA75 BB3F 16E3  8C2F 70F2 E0DF 0919 898C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.23"
+        },
+        "key": {
+            "eldest_kid": "01012926cb4dabd25466bdf226de87ed5e72148e74f3f30ed6015c4435079060689b0a",
+            "fingerprint": "682f6f67ca75bb3f16e38c2f70f2e0df0919898c",
+            "host": "keybase.io",
+            "key_id": "70f2e0df0919898c",
+            "kid": "01012926cb4dabd25466bdf226de87ed5e72148e74f3f30ed6015c4435079060689b0a",
+            "uid": "86b637a4b555e5a6913246f16118e519",
+            "username": "mvdw"
+        },
+        "service": {
+            "hostname": "muse.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1446404456,
+    "expire_in": 157680000,
+    "prev": "38dfed7e484ec8e87e6ccc02294cd4c9fd8d07ac8593de95f16350c4d77b08e5",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtUmtQVGUYXlCuE8o4XDK80KGJtHU75+x3biTGas7AwGhU4Ioj27l8Z/fI7tlt
+9+wS17BBuTnW2GjkpUIIgrwrDDqTUlqMQhKoQVKIIaSNlEGQA051DsGPZvrZ9+ub
+733e532e5/3eCZunC/ZzjQ3eCllcscuv4x6nyyRZWwHCOYU8JKEA4e0SlBXtJrMO
+iCQgOTCPYz3QIDljZacADds8sbMYPeKDbo/klFUUaqANuBEp0mt4rRvaBehRLDmS
+oFUxFMMZnOQ5ILCcgBOAJDlBxHFSgDQFBQJSOAZoSAHRKBpRKJAoRvAAGAmUYlAS
+JWmGQ1l1oCjJVuh2uSVNIkLSuEiKJMWzFMFxRhEjoZHmcZFCRRyigogyGEMzNK82
+2pwe5V9mkBmllhl5/4H/n3V7Z+hokiONFAs4giAgwZIMZsQBqcrGMBoSGKMBPdA9
+G7zDJ+RqgaovPomHWqiai7mqijRYJcXm5f5x43I7FSfvtKs1m6K4PAlar5Ln0sC5
+kLPM0lg4SRbUFOe29562PkyF8oqkEWMAkAAFgCD1CHzDJbmhRdIQBEXSqHq0QdCn
+chppQYQCBQENIE9rcZA8z6M4zgBeADwjCrSAUixPE4xRgAyh2lRj4YFAURyq2kU0
+Z6/LTpVbJVVYq8rpkawyq3jdECmq8F8yX+cXrAsM8Nc+qC40JHzu1y7HwnWnBrJ2
+gMJzTR+mT/w49nTq++Zrnz3jX/d9Y9HZhT8Lz1bmS3cunSlJLrtfmpRYfCcmtVRX
+H7B8qijSWj22tbthxedd29t6q27/iZrCzWPdJRd/sGyrO9x8MoipfIRfORf0hSkz
+8u610pFHC9F21LBOtlbf7yw5v6l/o1KUdXp/z2K55PTKwcxyLKkeSw1ofbKTNwNw
+Yd3b6WHTOQr19V+bTcvk+PKH400/5a/JStVVFE9sL3yOt8WtcMTpprovzeeXjpqi
+9HztnvH4M7fWDpzMXFRea+pb3f3gUH+eEKlfHfWgkW5oX5K5vu759vSQnZO2iMsN
+Lbs3GBzDWxMjbg81jxT3WY8Oh1/t0Jfnrn31UHp+gSU5rXg908G1LPp24nhg6m95
+0/nn669O+qXl+N2wP9biyxD7Dnr3b9HXn7p4PHpV64lXWjz23o9SGhCD4HppcN6Q
+b0/n46bQDUtxb3B8SsLl9tr0Y+O/vmu3x3xw11j1XU9cxpvZ8qrphLam0OthvUcK
+am4eiBF3lo0ogUknQkZf3MFWg/ER4uD13YkvLLNWt6UF9le9Vbj3j8OUw8F9EzgR
+ceHhpi8na45cGY7NSYHmsuTfbzRG9GRnmF8eWHMsqNUw2HXvrHPfRoet2Un9klzV
+v+AT780tBz7enGU3H31tqHKqJJpbCaSvPn2qZrQxekHXE1zUUPbf
+=NrvS
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mvdw
+
+==================================================================
