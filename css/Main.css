@@ -24,28 +24,49 @@ main p {
   font-size: 18px;
 }
 
-main .tab a {
+main .tab a, main footer a {
   text-decoration: none;
   color: #EA526F;
 }
 
-main .tab a:visited {
+main .tab a:visited, main footer a:visited {
   color: #E76B74;
+}
+
+main .tag {
+  color: #666;
+  font-style: italic;
+}
+
+main .tag:after {
+  content: ',';
+}
+
+main .tag:last-child:after {
+  content: '';
 }
 
 nav   {
   text-align: left;
   padding: 0px 0px 5px 0px;
 }
+
 nav span.active-nav:before {
   content: '~'
 }
+
 nav a {
   text-decoration: none;
   color: black;
 }
+
 nav a:first-child {
   padding: 0px 5px 0px 0px;
+}
+
+footer p {
+  font-size: 100%;
+  font-style: italic;
 }
 
 .tab:not(.active-elm) {
